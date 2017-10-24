@@ -1,0 +1,3 @@
+# doesn't run through daemon have to run:
+#   docker-machine ssh Char
+docker service logs engineering-bay
